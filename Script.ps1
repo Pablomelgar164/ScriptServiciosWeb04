@@ -1,5 +1,5 @@
 param (
-    [string]$NombreBase = "03"
+    [string]$NombreBase = "ServiciosWeb04"
 )
 
 $outputFile = "ServiciosWeb$NombreBase-output.txt"
